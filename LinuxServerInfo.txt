@@ -1,0 +1,6 @@
+리눅스 IP 192.168.44.130
+director : Director1!
+ceo : Nobleceo1!
+staff : StaffA1!
+create user 'director'@'192.168.44.130' identified by 'Director1!'
+grant all privileges on *.* to '사용자'@'localhost';
