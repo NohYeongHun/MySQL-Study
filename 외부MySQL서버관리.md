@@ -9,6 +9,7 @@ MySQL Server <- 방화벽 - IP 주소 - 외부 네트워크 -> MySQL WorkBench(W
 - Windows - Linux 서버 연결
 
 - root / password
+- IP check : ip addr
 - IP : 192.168.44.130
 
 
